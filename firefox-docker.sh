@@ -1,9 +1,9 @@
 #!/bin/bash
 
 # Docker image name
-DOCKER_IMAGE="szimszon/firefox:v1"
+DOCKER_IMAGE="szimszon/firefox:v2"
 # Running Docker container name
-DOCKER_NAME="firefox-secure"
+DOCKER_NAME="firefox-docker"
 # PulseAudio server address (listen on Docker main IP)
 PULSE_SERVER="172.17.42.1:4713"
 #Original user'S download directory

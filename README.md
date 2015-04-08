@@ -6,7 +6,11 @@ Original work by Chris Daish <chrisdaish@gmail.com> (https://github.com/chrisdai
 
 Changelog
 ---------
+
 ```
+v2.0
+* Firefox upgrade from 37 to 37.0.1
+
 v1.0
 * Initial release
 ```
